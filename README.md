@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EvolanGit&theme=onedark&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=0D1117&stroke=080317EC&ring=321391EC&fire=321391EC&currStreakNum=66EB5FD5&sideNums=66EB5FD5&currStreakLabel=66EB5FD5&sideLabels=66EB5FD5&dates=66EB5FD5)](https://git.io/streak-stats)
 
-![EvolanGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvolanGIT&show_icons=true&theme=transparent)
+![EvolanGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvolanGIT&show_icons=true&text_color=66EB5FD5&icon_color=321391EC&hide_border=true&title_color=321391EC&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvolanGIT&layout=compact&theme=vision-friendly-dark)](https://github.com/EvolanGIT/github-readme-stats) 
 
