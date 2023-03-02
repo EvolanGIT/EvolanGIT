@@ -14,7 +14,7 @@
   </a>
 </div>
  
-<h1> Hey there! :wave: I am Yon Bermudez. I am a Junior Dev. &#x1F4BB </h1>
+<h1> Hey there! :wave: I am Yon Bermudez. </h1>
 
 </div>
 
