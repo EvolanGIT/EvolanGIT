@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <a href="#"><img src="https://iili.io/HVYQqpj.png" alt="HVYQqpj.png" border="0" width="200px" ></a>
 
-![EvolanGIT](https://komarev.com/ghpvc/?username=EvolanGIT)
+![EvolanGIT](https://komarev.com/ghpvc/?username=EvolanGIT&color=blueviolet)
 
 <div id="badges">
   <a href="your-linkedin-URL">
